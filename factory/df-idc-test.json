@@ -1,0 +1,9 @@
+{
+	"name": "df-idc-test",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "662b5276-86a5-438a-afbb-5f81cb0859c6",
+		"tenantId": "3048dc87-43f0-4100-9acb-ae1971c79395"
+	}
+}
